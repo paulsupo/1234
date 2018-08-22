@@ -24,7 +24,7 @@ int main()
     a=32766;
     z=a+1;
     cout <<z<<endl;
-    z=z+1;
+    z=z+2;
     cout <<z<<endl;
     return 0;
     return 0;
