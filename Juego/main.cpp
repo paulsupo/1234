@@ -7,9 +7,9 @@ int main()
     int a;
     int b;
     int z;
-    a = 5;
-    b = 6;
+    cin >> a;
+    cin >> b;
     z = a + b;
-    cout << (a+b)*z << endl;
+    cout << "La suma de "<< a <<" y "<< b << " es igual a " << z << endl;
     return 0;
 }
