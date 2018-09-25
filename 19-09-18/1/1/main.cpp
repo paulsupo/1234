@@ -42,23 +42,31 @@ int primo(const int arr[],const int len){
 
 
 void seleccion(int array[],int length){
-    for (int i=0; i<(length-1);i++){
+    for (int i=0; i<(length-2);i++){
         int mini=i;
-        for (int j=1;j<=(length);j++){
-            if (array[j]<array[i])
-                mini=j;
-        if (mini!=i)
+        for (int j=i;j<=(length-1);j++){
+            if (array[j]<array[mini])
+                mini=j;}
+        if (mini!=i){
+            int c=array[i];
             array[i]=array[mini];
-            }}}
+            array[mini]=c;}
+            }}
+
+
 int main(){
     int array[]={6,7,1,5,4};
     cout << "Su suma es: "<<suma(array,5)<<endl;
     cout << "El mayor es: "<<mayor(array,5)<<endl;
     cout << "El numero de primos es: "<<primo(array,5)<<endl;
     seleccion(array,5);
-    for (int i=0;i<=5;i++){
-        cout<< array[i]<<" , ";
+    for (int i=0;i<=4;i++){
+        cout<< array[i]<<" ";
     }
-
+    cout<<" "<<endl;
+    seleccion(array,5);
+    for (int i=(5-1);i>=0;i--){
+        cout<< array[i]<<" ";
+    }
     return 0;
 }
