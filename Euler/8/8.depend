@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537837940 source:g:\code blocks\euler\8\main.cpp
+	<iostream>
+	<math.h>
+

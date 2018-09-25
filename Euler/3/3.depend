@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537738990 source:g:\code blocks\euler\3\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+
