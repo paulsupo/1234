@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1541514776 source:c:\users\alumno-g\desktop\gg\gg\src\polygon.cpp
+	"Polygon.h"
+	<iostream>
+
+1541514742 c:\users\alumno-g\desktop\gg\gg\include\polygon.h
+
+1541514747 source:c:\users\alumno-g\desktop\gg\gg\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Polygon.h"
+	"Rectangle.h"
+
+1541515978 c:\users\alumno-g\desktop\gg\gg\include\triangle.h
+	"Polygon.h"
+
+1541515960 c:\users\alumno-g\desktop\gg\gg\include\rectangle.h
+	"Polygon.h"
+
+1541513926 source:c:\users\alumno-g\desktop\gg\gg\src\polygonarray.cpp
+	"PolygonArray.h"
+
+1541514096 c:\users\alumno-g\desktop\gg\gg\include\polygonarray.h
+
+1541514644 source:c:\users\alumno-g\desktop\gg\gg\src\rectangle.cpp
+	"Rectangle.h"
+	"Polygon.h"
+	<iostream>
+
+1541514661 source:c:\users\alumno-g\desktop\gg\gg\src\triangle.cpp
+	"Triangle.h"
+	"Polygon.h"
+	<iostream>
+
+1541538180 source:f:\gg\gg\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Polygon.h"
+	"Rectangle.h"
+	"PolygonArray.h"
+
+1541515980 f:\gg\gg\include\triangle.h
+	"Polygon.h"
+
+1541566138 f:\gg\gg\include\polygon.h
+
+1541515962 f:\gg\gg\include\rectangle.h
+	"Polygon.h"
+
+1541566138 source:f:\gg\gg\src\polygon.cpp
+	"Polygon.h"
+	<iostream>
+
+1541566048 source:f:\gg\gg\src\rectangle.cpp
+	"Rectangle.h"
+	"Polygon.h"
+	<iostream>
+
+1541566048 source:f:\gg\gg\src\triangle.cpp
+	"Triangle.h"
+	"Polygon.h"
+	<iostream>
+
+1541563592 f:\gg\gg\include\polygonarray.h
+	"Polygon.h"
+
+1541565906 source:f:\gg\gg\src\polygonarray.cpp
+	"PolygonArray.h"
+	"Polygon.h"
+	<iostream>
+

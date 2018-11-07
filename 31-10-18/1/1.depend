@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1540908985 source:c:\users\alumno-g\desktop\30-10-18\1\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1540908985 c:\users\alumno-g\desktop\30-10-18\1\include\point.h
+
+1540911279 source:c:\users\alumno-g\desktop\30-10-18\1\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
+1540911232 c:\users\alumno-g\desktop\30-10-18\1\include\pointarray.h
+
+1540911232 source:c:\users\alumno-g\desktop\30-10-18\1\src\pointarray.cpp
+	"Point.h"
+	"PointArray.h"
+	<iostream>
+
+1540911280 source:f:\30-10-18\1\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
+1540908986 f:\30-10-18\1\include\point.h
+
+1540911234 f:\30-10-18\1\include\pointarray.h
+
+1540908986 source:f:\30-10-18\1\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1540911370 source:f:\30-10-18\1\src\pointarray.cpp
+	"Point.h"
+	"PointArray.h"
+	<iostream>
+
+1540911280 source:g:\30-10-18\1\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
+1540908986 g:\30-10-18\1\include\point.h
+
+1540948840 g:\30-10-18\1\include\pointarray.h
+
+1540908986 source:g:\30-10-18\1\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1540948878 source:g:\30-10-18\1\src\pointarray.cpp
+	"Point.h"
+	"PointArray.h"
+	<iostream>
+
+1540949054 source:c:\users\alumno-e\desktop\31-10-18\1\main.cpp
+	<iostream>
+	"Point.h"
+	"PointArray.h"
+
+1540908986 c:\users\alumno-e\desktop\31-10-18\1\include\point.h
+
+1540995837 c:\users\alumno-e\desktop\31-10-18\1\include\pointarray.h
+	"Point.h"
+
+1540908986 source:c:\users\alumno-e\desktop\31-10-18\1\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1540997313 source:c:\users\alumno-e\desktop\31-10-18\1\src\pointarray.cpp
+	"PointArray.h"
+	<iostream>
+
+1540996498 source:c:\users\alumno-e\desktop\31-10-18\1\src\polygon.cpp
+	"Polygon.h"
+
+1540996513 c:\users\alumno-e\desktop\31-10-18\1\include\polygon.h
+	"Point.h"
+	"PointArray.h"
+
